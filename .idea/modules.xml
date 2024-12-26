@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/main.iml" filepath="$PROJECT_DIR$/main.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/lol.iml" filepath="$PROJECT_DIR$/lol.iml" />
+>>>>>>> 88f5661 (Initial commit)
     </modules>
   </component>
 </project>
